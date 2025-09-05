@@ -52,7 +52,7 @@ react-hook/
 │   │   └── MovieList.jsx
 │   ├── App.js
 │   ├── index.js
-│   └── ...other files
+│   └── index.css
 ├── package.json
 └── README.md
 ```
@@ -66,7 +66,7 @@ react-hook/
 
 - React
 - JavaScript (ES6+)
-- Tailwind CSS (for styling)## Folder Structure
+- Tailwind CSS (for styling)
 
 ## License
 This project is for educational purposes.
